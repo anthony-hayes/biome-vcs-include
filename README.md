@@ -10,4 +10,4 @@ src/ignore/index.js should be formatted, but src/main/index.js should be ignored
 
 ACTUAL
 
-Both files are formatted
+Both files are formatted. If you set `useIgnoreFile` to false, `includes` now works again.
