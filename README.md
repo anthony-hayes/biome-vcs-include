@@ -2,7 +2,7 @@
 
 REPODUCTION
 
-1. run `npx biome format .`
+1. run `npm install` then `npx biome format .`
 
 EXPECTED
 
